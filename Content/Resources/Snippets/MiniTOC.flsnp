@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="General.PDF">
+    <head>
+    </head>
+    <body>
+        <p class="FirstPageOfChapter">This chapter discusses the following. (This snippet is conditioned for PDF output).</p>
+        <MadCap:miniTocProxy style="mc-toc-depth: 2;" />
+    </body>
+</html>
